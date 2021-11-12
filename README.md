@@ -6,3 +6,7 @@ Download the template in your favourite format ([PDF](open-source-project-activi
 ## Example of dashboard:
 
 ![Example of dashboard](/dashboard-example.png)
+
+## License
+
+[CC-by-sa 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
